@@ -2,8 +2,8 @@
 <!DOCTYPE html>
 
 <html>
-<head runat="server">
-    <title></title>
+<head>
+    <title>Test</title>
 </head>
 <body>
     <div>
